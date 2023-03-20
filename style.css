@@ -1,6 +1,7 @@
 /* common css start here */
 body{
     background-image: url('bg.svg');
+    background-size: cover;
     padding: 0;
     margin: 0;
 }
